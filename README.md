@@ -14,6 +14,14 @@ Dependencies
 	python-setuptools
 	gtksourceview3
 	snapper
+### Fedora:
+	python3
+	gtk3
+	dbus-python
+	python3-gobject
+	python-setuptools
+	gtksourceview3
+	snapper
 ### openSUSE:
 	python3
 	dbus-1-python3
